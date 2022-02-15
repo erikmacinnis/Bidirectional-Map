@@ -1,0 +1,3 @@
+Entrance -> A
+A -east> F
+F -north> Exit
